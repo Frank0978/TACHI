@@ -1,0 +1,17 @@
+{
+    "name": "telma/desarrollo-aplicaciones-web-dinamicas-telman2000",
+    "type": "project",
+    "require": {
+        "eftec/bladeone": "^4.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Telma\\DesarrolloAplicacionesWebDinamicasTelman2000\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "telman"
+        }
+    ]
+}
